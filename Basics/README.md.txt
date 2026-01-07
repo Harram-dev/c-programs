@@ -10,3 +10,4 @@ This folder contains beginner C programs from the first semester:
 - 'bank-loan.c' → checks loan eligibility & interest
 - 'income-tax.c' → calculates income tax
 - 'hr-screening.c' → screens job applicants
+- 'helloworld.c' → prints "Hello, World!" on the screen

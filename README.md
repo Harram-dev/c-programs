@@ -1,0 +1,2 @@
+This repository contains a collection of basic C language programs designed for beginners. These programs help in understanding fundamental programming concepts such as loops, conditionals, functions, number manipulation, structures, arrays, and file-handling
+It is especially useful for first-semester Computer Science students.

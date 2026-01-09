@@ -8,18 +8,7 @@ Whether you’re practicing for labs, assignments, or exams, or just starting wi
 **Repository Structure**
 
 All programs are grouped by topic. Each folder contains multiple programs and a README.md explaining them.
-
-c-programming/
-|
-├── basic/         
-│   ├── (programs)
-│   └── README.md
-│
-├── loops/        
-│   ├── (programs)
-│   └── README.md
-│
-└── README.md      
+    
 
 **Topics Covered**
 
